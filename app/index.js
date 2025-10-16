@@ -39,3 +39,5 @@ export default class App {
 
   animateElementsIn() {}
 }
+
+new App();
