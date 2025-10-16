@@ -1,0 +1,11 @@
+@use "./base/reset";
+@use "./base/fonts";
+@use "./base/base.scss";
+
+/* Partials */
+
+/* Globals */
+@use "./components/Globals/header.scss";
+
+/* Sections */
+@use "./components/Sections/hero";

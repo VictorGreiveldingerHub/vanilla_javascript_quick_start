@@ -1,0 +1,11 @@
+@use "../../base/base.scss" as var;
+@use "../../utils/mixins";
+
+.header__wrapper {
+  position: absolute;
+  top: 0;
+
+  display: flex;
+
+  width: 100%;
+}
